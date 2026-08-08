@@ -10,7 +10,7 @@ import pandas as pd
 # TMDB API
 # ==========================================
 
-API_KEY = "c383df5e959e22e146fbd1edb7683c83"
+API_KEY = "your_actual_key"
 
 IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"
 
